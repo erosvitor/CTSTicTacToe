@@ -1,7 +1,7 @@
 # CTSTicTacToe
 
 ## Descrição
-O **CTSTicTacToe** é um projeto exemplo que mostra como utilizar conceitos de programação paralela e comunicação cliente/servidor para criar um jogo que possa ser usado em ambiente de rede.
+Projeto exemplo que mostra como utilizar conceitos de programação paralela e comunicação cliente/servidor para criar um jogo que possa ser usado em ambiente de rede.
 
 ## Tecnologias
 O projeto utiliza as seguintes tecnologias:
